@@ -3,3 +3,10 @@ body {
     font-family: Arial, sans-serif;
     color: #333333; /* Cor do texto geral */
 }
+
+h1 {
+    background-color: #1e293b; /* Fundo azul escuro */
+    color: #ffffff;            /* Texto branco */
+    text-align: center;        /* Alinhamento ao centro */
+    padding: 20px;             /* Espaço interno para o texto respirar */
+}
