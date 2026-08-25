@@ -28,10 +28,9 @@ ul {
 
 /* 1. ESTILO DO BANNER (Capa do topo) */
 .img-banner {
-    width: 100%;             /* Ocupa toda a largura disponível */
-    height: 180px;           /* Define uma altura fixa para a capa */
-    object-fit: cover;       /* CORTE INTELIGENTE: Impede que a imagem fique esticada ou esmagada! */
-    border-radius: 8px 8px 0 0; /* Arredonda apenas os cantos superiores */
+         width: 100%; /* Ocupa toda a largura da tela */
+         height: 180px; /* Altura fixa */
+         object-fit: cover; /* Impede que a imagem fique esticada ou esmagada */
 }
 
 /* 2. ESTILO DA FOTO DE PERFIL */
