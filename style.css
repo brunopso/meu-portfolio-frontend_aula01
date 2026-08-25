@@ -1,8 +1,9 @@
 body {
-    background-color: #e2e8f0; /* Cor de fundo cinza claro */
-    font-family: Arial, sans-serif;
-    color: #333333; /* Cor do texto geral */
-}
+   .cabecalho {
+        background-color: #1e293b;
+        border-bottom: 3px solid #38bdf8; /* Linha de destaque azul */
+        padding-bottom: 30px;
+} 
 
 h1 {
     background-color: #1e293b; /* Fundo azul escuro */
